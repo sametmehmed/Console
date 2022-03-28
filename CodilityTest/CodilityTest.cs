@@ -21,6 +21,8 @@ namespace CodilityTest
         public void MaxDistanceTest()
         {
             Assert.AreEqual(MaxDistance.solution(new int[] { 2, 6, 8, 5 }), 3);
+            Assert.AreEqual(MaxDistance.solution(new int[] { 1, 5, 5, 2, 6 }), 4);
+            Assert.AreEqual(MaxDistance.solution(new int[] { 1, 1 }), 2);
         }
     }
 }

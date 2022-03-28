@@ -14,7 +14,4 @@ using Codility;
 //SameDigitSum.solution(new int[]{ 55, 23, 32, 46, 88 });
 //MissingInteger.solution(new int[] { 1, 3, 6, 4, 1, 2 });
 //BitMultiplication.solution(3,7);
-//MaxDistance.solution(new int[] { 2, 6, 8, 5 });
-//MaxDistance.solution(new int[] { 1,5,5,2,6 });
-
-MaxDistance.solution(new int[] { 1, 1 });
+MaxDistance.solution(new int[] { 1, 5, 5, 2, 6 });
